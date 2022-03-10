@@ -1,0 +1,35 @@
+.signupinput {
+  display: block;
+  padding: 7px;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 5px;
+  width: 300px;
+  border: 1px solid rgb(113, 113, 245);
+  border-radius: 5px;
+}
+.box {
+  width: 350px;
+  background-color: rgb(245, 189, 189);
+  margin: auto;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+.box button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+.box button:hover{
+  background-color: #0a360b;
+}
+.invalid{
+  color: red;
+}

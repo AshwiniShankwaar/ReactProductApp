@@ -1,0 +1,10 @@
+.fotter{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background-color: aqua;
+    width: 100%;
+}
+.fotter p{
+    margin: 3px;
+}
